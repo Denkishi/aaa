@@ -1,0 +1,15 @@
+.u-section-1 {background-image: url("images/Tavoladisegno8botton2.png")}
+.u-section-1 .u-sheet-1 {min-height: 814px}
+.u-section-1 .u-image-1 {width: 126px; height: 126px; animation-duration: 1000ms; margin: 426px auto 60px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 671px}
+.u-section-1 .u-image-1 {width: 107px; height: 107px; margin-top: 353px} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 520px}
+.u-section-1 .u-image-1 {width: 87px; height: 67px; margin-top: 279px} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 406px}
+.u-section-1 .u-image-1 {width: 67px; height: 52px; margin-top: 220px} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 612px}
+.u-section-1 .u-image-1 {width: 100px; height: 100px; margin-top: 318px} }
